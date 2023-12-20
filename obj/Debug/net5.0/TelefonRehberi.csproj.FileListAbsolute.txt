@@ -1,0 +1,15 @@
+D:\PatikaDev\Patika_Odev\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.exe
+D:\PatikaDev\Patika_Odev\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.deps.json
+D:\PatikaDev\Patika_Odev\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.json
+D:\PatikaDev\Patika_Odev\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.runtimeconfig.dev.json
+D:\PatikaDev\Patika_Odev\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.dll
+D:\PatikaDev\Patika_Odev\TelefonRehberi\bin\Debug\net5.0\TelefonRehberi.pdb
+D:\PatikaDev\Patika_Odev\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+D:\PatikaDev\Patika_Odev\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfoInputs.cache
+D:\PatikaDev\Patika_Odev\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.AssemblyInfo.cs
+D:\PatikaDev\Patika_Odev\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.csproj.CoreCompileInputs.cache
+D:\PatikaDev\Patika_Odev\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.dll
+D:\PatikaDev\Patika_Odev\TelefonRehberi\obj\Debug\net5.0\refint\TelefonRehberi.dll
+D:\PatikaDev\Patika_Odev\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.pdb
+D:\PatikaDev\Patika_Odev\TelefonRehberi\obj\Debug\net5.0\TelefonRehberi.genruntimeconfig.cache
+D:\PatikaDev\Patika_Odev\TelefonRehberi\obj\Debug\net5.0\ref\TelefonRehberi.dll

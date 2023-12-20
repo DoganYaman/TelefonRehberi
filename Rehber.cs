@@ -204,12 +204,12 @@ namespace TelefonRehberi
             switch (aramaTuru)
             {
                 case "1" :
-                    Console.WriteLine("Lütfen numarasını silmek istediğiniz kişinin adını ya da soyadını giriniz: ");
+                    Console.WriteLine("Lütfen aramak istediğiniz kişinin adını ya da soyadını giriniz: ");
                     string adVeyaSoyad = Console.ReadLine().Trim();
                     liste = RehberKayit.KisiListeleAdVeyaSoyad(adVeyaSoyad);
                     break;
                 case "2" :
-                    Console.WriteLine("Lütfen numarasını silmek istediğiniz kişinin adını ya da soyadını giriniz: ");
+                    Console.WriteLine("Lütfen aramak istediğiniz kişinin telefon numarasını giriniz: ");
                     string telefon = Console.ReadLine().Trim();
                     liste = RehberKayit.KisiListeleTelefon(telefon);
                     break;
